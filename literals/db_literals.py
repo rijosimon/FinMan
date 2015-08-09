@@ -1,0 +1,5 @@
+host='localhost'
+user='root'
+password='wowilosttwosis$'
+db='fin_man_db'
+charset='utf8mb4'
